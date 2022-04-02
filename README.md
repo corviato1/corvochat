@@ -17,12 +17,11 @@
 7- Banlist page*
 
 
+*Contains a list type of assets*
+
+
 ## Features
 1- Alert routing
 
 2- Storage and distribution pathways(temp node, beacon node, gateways)
 
-
-
-
-**Contains a list type of assets

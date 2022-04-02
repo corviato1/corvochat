@@ -22,4 +22,4 @@
 
 2- Storage and distribution pathways(temp node, beacon node, gateways)
 
-*Assets list
+*Contains a list type of assets

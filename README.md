@@ -19,6 +19,7 @@
 
 ## Features
 1- Alert routing
+
 2- Storage and distribution pathways(temp node, beacon node, gateways)
 
 *Assets list

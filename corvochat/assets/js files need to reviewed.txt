@@ -1,0 +1,5 @@
+text file for app.js and commons.js
+
+made on April 2nd 2022
+
+delete when app and commons js files have been cleaned

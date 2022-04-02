@@ -1,5 +1,5 @@
 # corvochat 
-## -from the ground up
+## From the ground up
 ----------------
 
 1- login(web3)
